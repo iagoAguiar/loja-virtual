@@ -24,6 +24,8 @@ public class TestaInsercao {
 			 Integer id = rst.getInt(1);
 			 System.out.println("O ID criado foi : "+ id);
 		  }
+		 
+		 System.out.println(resultado);
 	
 	}
 
